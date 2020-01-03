@@ -10,8 +10,8 @@ The C++ portion of this project utilizes the following:
 
 #Java
 The Java portion of this project utilizes the following:
-* Java 8
-* Maven for compilation and deployment
+* Java 1.8.0_232
+* Maven 3.0.5 for compilation and deployment
 * The standard Java networking libraries (java.net, javax.net, etc)
 
 #Python
